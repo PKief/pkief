@@ -1,4 +1,4 @@
-<img src="images/background.jpg">
+<img src="https://raw.githubusercontent.com/PKief/pkief/master/images/background.jpg">
 
 # Philipp Kief
 
