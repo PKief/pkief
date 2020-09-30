@@ -22,6 +22,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
 
 ## 📖 Articles
 
+- [Global Error Handling in Angular](https://medium.com/@PhilippKief/global-error-handling-in-angular-ea395ce174b1)
 - [Automatic Dark Mode Detection in Angular](https://medium.com/@PhilippKief/automatic-dark-mode-detection-in-angular-material-8342917885a0)
 - [How to debug TypeScript with VS Code](https://medium.com/@PhilippKief/how-to-debug-typescript-with-vs-code-9cec93b4ae56)
 - [How to create Angular Desktop Apps](https://medium.com/@PhilippKief/angular-desktop-apps-a9ce9e3574e8)
