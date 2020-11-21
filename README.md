@@ -12,10 +12,9 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/vscode-material-icon-theme">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/logo.png" alt="logo" width="50">
+                <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/logo.png" alt="logo" height="50">
             <br>
             Material Icon Theme
-            <br>
             <br>
             </a>
             </p>
@@ -24,10 +23,9 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/vscode-markdown-checkbox">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/vscode-markdown-checkbox/master/logo.png" alt="logo" width="50">
+                <img src="https://raw.githubusercontent.com/PKief/vscode-markdown-checkbox/master/logo.png" alt="logo" height="50">
             <br>
             Markdown Checkbox
-            <br>
             <br>
             </a>
             </p>
@@ -36,10 +34,20 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/checkbox-snake">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/checkbox-snake/master/logo.png" alt="logo" width="50">
+                <img src="https://raw.githubusercontent.com/PKief/checkbox-snake/master/logo.png" alt="logo" height="50">
             <br>
             Checkbox Snake
             <br>
+            </a>
+            </p>
+        </td>
+        <td>
+            <p align="center">
+            <a href="https://github.com/PKief/angular-events-chatbot">
+            <br>
+                <img src="https://github.com/PKief/angular-events-chatbot/raw/master/images/screenshot_01.png" alt="logo" height="50">
+            <br>
+            Events Chatbot
             <br>
             </a>
             </p>
@@ -47,23 +55,8 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
     </tr>
 </table>
 
-<!-- ## ✨ Languages
-
-- TypeScript<br>
-- EcmaScript<br>
-- Python<br>
-- HTML/CSS/Scss<br>
-
-## 💻 Projects
-
-- [VS Code Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
-- [VS Code Markdown Checkbox](https://github.com/PKief/vscode-markdown-checkbox)
-- [Angular Events Chatbot](https://github.com/PKief/angular-events-chatbot)
-- [Checkbox Snake Game](https://github.com/PKief/checkbox-snake) -->
-
 ## Recent articles
 
-<br>
 <table>
     <tr>
         <td>
