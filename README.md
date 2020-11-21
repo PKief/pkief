@@ -60,7 +60,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
 <table>
     <tr>
         <td>
-            <a href="https://github.com/PKief/vscode-material-icon-theme">            
+            <a href="https://medium.com/@PhilippKief/global-error-handling-in-angular-ea395ce174b1">            
                 <img src="https://miro.medium.com/max/4800/1*2hTxY3GqPjd0vexILRsgmQ.png" alt="logo" width="100">
         </a>
         </td>
@@ -70,7 +70,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
         </tr>
         <tr>
         <td>
-            <a href="https://github.com/PKief/vscode-material-icon-theme">            
+            <a href="https://medium.com/@PhilippKief/automatic-dark-mode-detection-in-angular-material-8342917885a0">            
                 <img src="https://miro.medium.com/max/4800/1*DILtWhS2eUBnFqUR7tXxtg.png" alt="logo" width="100">
         </a>
         </td>
@@ -80,7 +80,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
         </tr>
         <tr>
         <td>
-            <a href="https://github.com/PKief/vscode-material-icon-theme">            
+            <a href="https://medium.com/@PhilippKief/how-to-debug-typescript-with-vs-code-9cec93b4ae56">            
                 <img src="https://miro.medium.com/max/3524/1*uSrSYdCfkd6ccC4Sc-rmsA.png" alt="logo" width="100">
         </a>
         </td>
@@ -90,7 +90,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
         </tr>
         <tr>
         <td>
-            <a href="https://github.com/PKief/vscode-material-icon-theme">            
+            <a href="https://medium.com/@PhilippKief/angular-desktop-apps-a9ce9e3574e8">            
                 <img src="https://miro.medium.com/max/2400/1*SyKFADUT9a6oGvKLrDBC6g.png" alt="logo" width="100">
         </a>
         </td>
