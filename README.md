@@ -12,7 +12,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/vscode-material-icon-theme">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/logo.png" alt="logo" height="50">
+                <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/material-icon-theme.png" alt="logo" height="50">
             <br>
             Material Icon Theme
             <br>
@@ -23,7 +23,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/vscode-markdown-checkbox">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/vscode-markdown-checkbox/master/logo.png" alt="logo" height="50">
+                <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/markdown-checkbox.png" alt="logo" height="50">
             <br>
             Markdown Checkbox
             <br>
@@ -34,7 +34,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/checkbox-snake">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/checkbox-snake/master/logo.png" alt="logo" height="50">
+                <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/checkbox-snake.png" alt="logo" height="50">
             <br>
             Checkbox Snake
             <br>
@@ -45,7 +45,7 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
             <p align="center">
             <a href="https://github.com/PKief/angular-events-chatbot">
             <br>
-                <img src="https://github.com/PKief/angular-events-chatbot/raw/master/images/screenshot_01.png" alt="logo" height="50">
+                <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/events-chatbot.png" alt="logo" height="50">
             <br>
             Events Chatbot
             <br>
