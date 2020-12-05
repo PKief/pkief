@@ -21,6 +21,17 @@ Hi, I'm Philipp - a professional web developer with a passion for nearly all thi
         </td>
         <td>
             <p align="center">
+            <a href="https://github.com/PKief/material-color-converter">
+            <br>
+                <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/material-color-converter.png" alt="logo" height="50">
+            <br>
+            Material Color Converter
+            <br>
+            </a>
+            </p>
+        </td>
+        <td>
+            <p align="center">
             <a href="https://github.com/PKief/vscode-markdown-checkbox">
             <br>
                 <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/markdown-checkbox.png" alt="logo" height="50">
