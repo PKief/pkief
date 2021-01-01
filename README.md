@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/PKief/pkief/master/images/background.jpg">
-
 # Philipp Kief
 
-Hi, I'm Philipp - a professional web developer with a passion for nearly all things that are running in a web browser. When it comes to innovative projects, architectural decisions as well as the creative and visual design of user interfaces, I'm really excited. It is a pleasure for me to try new technologies and libraries, I am active in the open source environment frequently, enjoy writing articles on Medium or get involved as an active member on Stack Overflow.
+💻 Professional Software Engineer<br>
+🏭 Business Informatics Specialist<br>
+🎨 User Interface Designer<br>
+⛑ Open Source Contributor<br>
+📝 Tech Posts Writer<br>
 
 ## Recent projects
 
