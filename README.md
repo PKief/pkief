@@ -1,7 +1,7 @@
 # Philipp Kief
 
-💻 Professional Software Engineer<br>
-🏭 Business Informatics Specialist<br>
+👨‍💻 Professional Software Engineer<br>
+💻 Frontend Developer<br>
 🎨 User Interface Designer<br>
 ⛑ Open Source Contributor<br>
 📝 Tech Posts Writer<br>
