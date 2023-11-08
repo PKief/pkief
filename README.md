@@ -56,11 +56,11 @@
         </td>
         <td>
             <p align="center">
-            <a href="https://github.com/PKief/angular-events-chatbot">
+            <a href="https://github.com/PKief/svg-color-linter">
             <br>
-                <img src="https://raw.githubusercontent.com/PKief/pkief/master/images/project-images/events-chatbot.png" alt="logo" height="50">
+                <img src="https://github.com/PKief/svg-color-linter/raw/main/logo.png" alt="logo" height="50">
             <br>
-            Events Chatbot
+            SVG Color Linter
             <br>
             </a>
             </p>
