@@ -2,7 +2,7 @@
 
 👨‍💻 Professional Software Engineer<br>
 💻 Frontend Developer<br>
-🎨 User Interface Designer<br>
+🎨 UI Designer<br>
 ⛑ Open Source Contributor<br>
 📝 Tech Posts Writer<br>
 
