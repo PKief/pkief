@@ -23,7 +23,7 @@ I'm a passionate **Software Engineer** with a love for creating beautiful and fu
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/philipp-kief-5185102a9/)
-- [Twitter](https://twitter.com/philippkief)
+- [X](https://x.com/philippkief)
 - [GitHub](https://github.com/pkief)
 
 ## 📝 Latest Blog Posts
