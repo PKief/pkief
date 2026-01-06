@@ -1,39 +1,24 @@
-# Hi there, I'm Philipp Kief 👋
+# Philipp Kief
 
-I'm a passionate **Software Engineer** with a love for creating beautiful and functional web applications. I enjoy turning complex problems into simple, elegant solutions. My goal is to always build products that provide pixel-perfect, performant experiences.
+Full-stack Software Engineer specializing in TypeScript and Node.js development. I build scalable backend systems and modern web applications with a focus on clean architecture and developer experience.
 
-## 🚀 About Me
+## Expertise
 
-- 🔭 I’m currently working on various frontend projects
-- 🌱 I’m always learning and exploring new technologies
-- 💬 Ask me about TypeScript, Angular, JavaScript, and anything frontend-related
-- 📫 How to reach me: [philipp.kief@gmx.de](mailto:philipp.kief@gmx.de)
-- 🌐 Visit my website: [www.pkief.com](https://www.pkief.com)
+- **Backend Development** Node.js, TypeScript, REST APIs, System Architecture
+- **Frontend Development**
+Angular, React, Vue.js, Nuxt.js, Modern Web Standards
+- **Tools & Platforms**
+Git, VS Code, Bun, Biome
 
-## 🛠️ Technologies & Tools
+## Recent Articles
 
-- **Languages:** TypeScript, JavaScript, HTML, CSS, Python, Java
-- **Frameworks:** Angular, React, Nuxt.js, Vue.js
-- **Tools:** Git, Biome, Bun, VS Code
-
-## 📈 GitHub Stats
-
-![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKief&show_icons=true&theme=transparent)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/philipp-kief-5185102a9/)
-- [X](https://x.com/philippkief)
-- [GitHub](https://github.com/pkief)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
 - [Angular Standalone - NgRx State Management Architecture](https://www.pkief.com/blog/angular-standalone-ngrx-state-management-architecture)
 - [Responsive Design with SCSS Mixins in Nuxt.js](https://www.pkief.com/blog/breakpoint-mixins)
 - [Global Error Handling in Angular](https://www.pkief.com/blog/global-error-handling-in-angular)
-<!-- BLOG-POST-LIST:END -->
-[More Blog Posts](https://www.pkief.com/blog)
 
----
-⭐️ From [Philipp Kief](https://github.com/pkief)
+[More articles on my blog](https://www.pkief.com/blog)
+
+## Contact
+- **Website:** [www.pkief.com](https://www.pkief.com)
+- **LinkedIn:** [linkedin.com/in/philipp-kief-5185102a9](https://www.linkedin.com/in/philipp-kief-5185102a9/)
+- **X:** [x.com/philippkief](https://x.com/philippkief)
